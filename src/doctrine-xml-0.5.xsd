@@ -94,11 +94,14 @@
 			<enumeration value="json_array" />
 			<enumeration value="object" />
 			<enumeration value="geometry" />
-			<enumeration value="geography" />
 			<enumeration value="point" />
 			<enumeration value="linestring" />
 			<enumeration value="polygon" />
 			<enumeration value="multipolygon" />
+            <enumeration value="geography" />
+            <enumeration value="geopoint" />
+            <enumeration value="geolinestring" />
+            <enumeration value="geopolygon" />
 		</restriction>
 	</simpleType>
 

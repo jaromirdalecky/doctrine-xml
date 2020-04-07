@@ -91,6 +91,7 @@
 			<enumeration value="time" />
 			<enumeration value="timestamp" />
 			<enumeration value="array" />
+			<enumeration value="json" />
 			<enumeration value="json_array" />
 			<enumeration value="object" />
 			<enumeration value="geometry" />
@@ -98,10 +99,10 @@
 			<enumeration value="linestring" />
 			<enumeration value="polygon" />
 			<enumeration value="multipolygon" />
-            <enumeration value="geography" />
-            <enumeration value="geopoint" />
-            <enumeration value="geolinestring" />
-            <enumeration value="geopolygon" />
+			<enumeration value="geography" />
+			<enumeration value="geopoint" />
+			<enumeration value="geolinestring" />
+			<enumeration value="geopolygon" />
 		</restriction>
 	</simpleType>
 
